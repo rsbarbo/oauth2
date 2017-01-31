@@ -16,8 +16,10 @@ the application homepage and tries to authenticate with a social network:
 
 #### Important Information
 
-  [comment]: <> (This is a comment, it will not be included)
-
+<!---
+your comment goes here
+and here
+-->
   1.  Right the application work with Twitter only (will eventually implement with additional social networks)
   2.  Clone the repo down `git clone https://github.com/rsbarbo/oauth2.git`
   3.  Run `bundle install`
