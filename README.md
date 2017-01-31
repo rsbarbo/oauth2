@@ -17,8 +17,8 @@ the application homepage and tries to authenticate with a social network:
 #### Important Information
 
 <!---
-your comment goes here
-and here
+Remember that you have saved some additional information about this repo on
+your check it out bookmark folder on Chrome.
 -->
   1.  Right the application work with Twitter only (will eventually implement with additional social networks)
   2.  Clone the repo down `git clone https://github.com/rsbarbo/oauth2.git`
