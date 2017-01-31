@@ -1,0 +1,12 @@
+<% if current_user %>
+  <div class="container">
+    <div class="fb-profile">
+      <img align="left" class="background-picture" src="https://i.ytimg.com/vi/yaC6ea6xw4Q/maxresdefault.jpg" alt="background picture"/>
+      <img align="left" class="fb-image-profile thumbnail" src="<%= current_user.image_url %>" alt="profile-image"/>
+      <div class="fb-profile-text">
+        <h1><%= current_user.name %></h1>
+        <p>Location: <%= current_user.location %></p>
+      </div>
+    </div>
+  </div> <!-- /container -->
+<% end %>
